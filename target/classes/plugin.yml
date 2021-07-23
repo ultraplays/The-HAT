@@ -1,0 +1,8 @@
+name: Hats
+version: 1.0.0
+main: vb.$hats.PluginMain
+author: UltraPlays
+softdepend: [EssentialsX]
+api-version: 1.13
+commands:
+  hatcap:
